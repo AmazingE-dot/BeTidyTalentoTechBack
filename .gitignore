@@ -1,0 +1,8 @@
+.env
+app.ts
+dist/
+node_modules/
+package-lock.json
+package.json
+src/
+tsconfig.json
